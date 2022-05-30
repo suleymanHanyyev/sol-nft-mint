@@ -1,0 +1,20 @@
+{
+    "name": "Paris NFT#3",
+    "symbol": "NSI",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BRGKgBVBeNQWQSTzcHyGCihFxN9RAa1GN8a5iXYCjkDB",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
