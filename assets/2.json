@@ -1,20 +1,13 @@
 {
-    "name": "Paris NFT#3",
-    "symbol": "NSI",
-    "image": "2.png",
-    "properties": {
-      "files": [
-        {
-          "uri": "2.png",
-          "type": "image/png"
-        }
-      ],
-      "creators": [
-        {
-          "address": "BRGKgBVBeNQWQSTzcHyGCihFxN9RAa1GN8a5iXYCjkDB",
-          "share": 100
-        }
-      ]
-    }
-  }
-  
+  "name": "Paris NFT#3",
+  "symbol": "NSI",
+  "description": "Collection of Paris Photos, 3/3",
+  "image": "2.png",
+  "properties": {
+    "files": [ { "uri": "2.png", "type": "image/png" }],
+    "creators": [
+      { "address": "BRGKgBVBeNQWQSTzcHyGCihFxN9RAa1GN8a5iXYCjkDB", "share": 100 }
+    ]
+  },
+  "collection": { "name": "paris", "family": "paris" }
+}
